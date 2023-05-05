@@ -1,2 +1,2 @@
-# piramide
+# Piramide
 es piramide

@@ -9,13 +9,12 @@ Per utilizzare il programma, è sufficiente eseguire il codice nel file Program.
 
 All'interno del metodo Main, è possibile modificare il numero di cubi di pietra forniti per calcolare l'altezza massima della piramide e il numero di cubi di pietra rimanenti.
 
-Metodi
-Il programma include i seguenti due metodi:
+Il programma è formato da due parti:
 
 int Piani(int mattoni)
 Questo metodo calcola l'altezza massima della piramide data una certa quantità di cubi di pietra.
 
-metodo 1:
+parte 1:
 
 mattoni: il numero di cubi di pietra disponibili per la costruzione della piramide.
 Valore restituito:
@@ -25,7 +24,7 @@ Il metodo restituisce il numero di piani della piramide che possono essere costr
 int Rimanenti(int mattoni, int piani)
 Questo metodo calcola il numero di cubi di pietra rimanenti dopo la costruzione della piramide.
 
-metodo 2:
+parte 2:
 
 mattoni: il numero di cubi di pietra disponibili per la costruzione della piramide.
 piani: il numero di piani della piramide costruiti.
